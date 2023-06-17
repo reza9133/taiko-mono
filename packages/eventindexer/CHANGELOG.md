@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.6.0...eventindexer-v0.7.0) (2023-06-17)
+
+
+### Features
+
+* **protocol:** use ring buffer for ETH deposit and optimize storage ([#13868](https://github.com/taikoxyz/taiko-mono/issues/13868)) ([acffb61](https://github.com/taikoxyz/taiko-mono/commit/acffb61b13b44fd4792e8f4a31498d788ca38961))
+
 ## [0.6.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.5.0...eventindexer-v0.6.0) (2023-06-12)
 
 

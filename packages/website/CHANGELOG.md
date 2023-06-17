@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.10.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.9.0...website-v0.10.0) (2023-06-17)
+
+
+### Features
+
+* **protocol:** use ring buffer for ETH deposit and optimize storage ([#13868](https://github.com/taikoxyz/taiko-mono/issues/13868)) ([acffb61](https://github.com/taikoxyz/taiko-mono/commit/acffb61b13b44fd4792e8f4a31498d788ca38961))
+* **website:** add pheasant network to ecosystem ([#13995](https://github.com/taikoxyz/taiko-mono/issues/13995)) ([3253771](https://github.com/taikoxyz/taiko-mono/commit/32537710891448c389e891b18e658b10b7329d60))
+
 ## [0.9.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.8.0...website-v0.9.0) (2023-06-12)
 
 
